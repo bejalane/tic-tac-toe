@@ -17,6 +17,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://codeway.today/apps/tic-tac-toe",
   "eslintConfig": {
     "extends": [
       "react-app",
